@@ -5,8 +5,16 @@
  - [About MDN](https://developer.mozilla.org/en-US/docs/MDN)
  - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
- Az előbbi eléggé sima liba, „csak” dolgozni kell vele. Az utóbbi kicsit bonyolultabb, de egy részét @Dlimk is tudná szerintem csinálni – már ha van még kedve :) – a technikai részeket kihagyva – azt én vállalom.
+ Az előbbi eléggé sima liba, „csak” dolgozni kell vele. Az utóbbi kicsit bonyolultabb, de egy részét *@Dlimk* is tudná szerintem csinálni – már ha van még kedve :) – a technikai részeket kihagyva – azt én vállalom.
 
-## Mozilla Wikipédia oldal:
+## Mozilla Wikipédia oldal
 
-Valóban teljesen rossz a magyar verzió, ezért lényegében nulláról meg kellene csinálni, az angol [Mozilla](https://en.wikipedia.org/wiki/Mozilla) Wikipedia szócikk oldal alapján (@urbalazs vállalta). Utána a termékek oldalát kellene átnézni szerintem.
+Valóban teljesen rossz a magyar verzió, ezért lényegében nulláról meg kellene csinálni, az angol [Mozilla](https://en.wikipedia.org/wiki/Mozilla) Wikipedia szócikk oldal alapján (*@urbalazs* vállalta). Utána szerintem a termékek oldalát kellene átnézni.
+
+## Saját terminológiai szótár
+
+Ez lényegében egy zöldmezős projekt lesz, írunk egy viszonylag részletes specifikációt, amelyből kijelölünk néhány komponenst, amely a kezdeti kiadásba be kell kerüljön.
+
+## Fordítási stílus útmutató
+
+Holnap foglalkozunk a Fordítás HOGYAN modernizálásával.
