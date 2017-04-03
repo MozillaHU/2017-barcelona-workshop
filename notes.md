@@ -15,6 +15,8 @@ Valóban teljesen rossz a magyar verzió, ezért lényegében nulláról meg kel
 
 Ez lényegében egy zöldmezős projekt lesz, írunk egy viszonylag részletes specifikációt, amelyből kijelölünk néhány komponenst, amely a kezdeti kiadásba be kell kerüljön.
 
+Kaptunk egy egész jó javaslatot, hogy [*TBX*](https://en.wikipedia.org/wiki/TermBase_eXchange) formátumot kellene használni, ami azért is jó lenne (amellett hogy szabványos és nem kell nagyon agyalni rajta), mert a jövőben lehetne importálni többek között a Pontoonba is.
+
 ## Fordítási stílus útmutató
 
-Holnap foglalkozunk a Fordítás HOGYAN modernizálásával.
+Foglalkoztunk a Fordítás HOGYAN modernizálásával. Elkezdtük csinálgatni ebben a tárolóban: [SzabadSzoftver/FORDITAS_Hogyan](https://github.com/SzabadSzoftver/FORDITAS_Hogyan).
